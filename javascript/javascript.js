@@ -1,1 +1,1 @@
-//nenhum código javascript foi utilizado
+//nenhum código javascript foi utilizado nesta aplicação
